@@ -1,0 +1,2 @@
+# build Jekyll Site
+jekyll build -d ../bulax41.github.io/
